@@ -1,11 +1,6 @@
 {
   "links": [
     {
-      "name": "twitter",
-      "url": "",
-      "image": ""
-    },
-    {
       "name": "github",
       "url": "https://github.com/JosueLopezO",
       "image": "images/social/github.svg"
